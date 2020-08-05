@@ -18,3 +18,8 @@ Sample GroovePage from [Eric Wheeler](https://www.facebook.com/ericwwheeler/vide
 
 One Platform Marketing [Face Book Page](https://www.facebook.com/groups/oneplatformmarketing/)
 
+[How to align elements on the page With GroovePages
+](https://www.youtube.com/watch?reload=9&v=pyMlsr4YH3Y&t=598s/)
+(GrooveSell Product and Affiliate Settings Demo Walkthrough)[
+https://groovepages.groovepages.com/gpiframes/groovetutorials]
+(MailChimp Intergration)[https://www.youtube.com/watch?v=I4P_z-_n1UA]
