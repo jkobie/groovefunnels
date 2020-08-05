@@ -8,12 +8,12 @@ Groove Funnels play ground
 
 # Account creation
 
-    Goto [Create Account](https://groovefunnels.com/?aff_id=81078) to create a free account
+Goto [Create Account](https://groovefunnels.com/?aff_id=81078) to create a free account
 
 # Learning
 
-    [groove digital academy](https://www.groovedigitalacademy.com/)
+[groove digital academy](https://www.groovedigitalacademy.com/)
 
-    Sample GroovePage from [Eric Wheeler](https://www.facebook.com/ericwwheeler/videos/10225140832207694/)
+Sample GroovePage from [Eric Wheeler](https://www.facebook.com/ericwwheeler/videos/10225140832207694/)
 
-    oneplatformmarketing [Face Book Page](https://www.facebook.com/groups/oneplatformmarketing/)
+One Platform Marketing [Face Book Page](https://www.facebook.com/groups/oneplatformmarketing/)
