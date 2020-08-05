@@ -18,4 +18,3 @@ Sample GroovePage from [Eric Wheeler](https://www.facebook.com/ericwwheeler/vide
 
 One Platform Marketing [Face Book Page](https://www.facebook.com/groups/oneplatformmarketing/)
 
-New Line
