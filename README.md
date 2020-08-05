@@ -12,4 +12,4 @@ Goto [Create Account](https://groovefunnels.com/?aff_id=81078) to create an acco
 
 # Learning
 
-(https://www.groovedigitalacademy.com/)[groove digital academy]
+[groove digital academy](https://www.groovedigitalacademy.com/)
