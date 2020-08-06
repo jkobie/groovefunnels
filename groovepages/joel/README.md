@@ -19,7 +19,7 @@ Sample GroovePage from https://www.facebook.com/ericwwheeler/videos/102251408322
 ### Customize for your site.
 
 - Goto Groove Affiliate Program -> links and copy My Affiliate Links / GrooveFunnels URL.
-- In index.html, replace all <MY AFFLIATE ID> with My Affiliate Links / GrooveFunnels URL
+- In index.html, replace all MY AFFLIATE ID with My Affiliate Links / GrooveFunnels URL
 - GroovePages -> select a site
 - Open Site
 - Open HTMl editor </>
