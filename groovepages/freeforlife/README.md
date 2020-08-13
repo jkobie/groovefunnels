@@ -2,7 +2,11 @@
 
 Sample GroovePage from https://www.facebook.com/ericwwheeler/videos/10225140832207694/
 
+## Notes
+
 ## Usage
+
+You must use a groovefunnels page to properly display the HTML code. The page will not render correctly via another websever.
 
 ### Quick Start
 
