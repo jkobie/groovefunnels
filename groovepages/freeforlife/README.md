@@ -12,6 +12,8 @@ Copy and paste HTML into groove funnel to get working fast.
 
 ### Quick Start
 
+NOTE: affiliate id is ys0kPH03Ubos
+
 - GroovePages -> select a site
 - Open Site
 - Open HTMl editor </>
@@ -23,6 +25,8 @@ Copy and paste HTML into groove funnel to get working fast.
 - TODO: how to validate?
 
 ### Customize for your site.
+
+NOTE: you must replace affiliate id with your affiliate id
 
 - Goto Groove Affiliate Program -> links and copy My Affiliate Links / GrooveFunnels URL.
 - In index.html, replace all MY AFFLIATE ID with My Affiliate Links / GrooveFunnels URL
